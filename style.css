@@ -1,13 +1,7 @@
 <style>
   a {
-    color:black;
+    color:blue;
     text-decoration: none;
-  }
-  .saw {
-    color:gray;
-  }
-  .active {
-    color:red;
   }
   h1 {
     font-size:45px;
